@@ -1,0 +1,33 @@
+src/*.exe
+src/scattercoin
+src/scattercoin
+src/test_scattercoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.scattercoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+scattercoin-qt
+scattercoin-qt.app
+
+# Unit-tests
+Makefile.test
+scattercoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
