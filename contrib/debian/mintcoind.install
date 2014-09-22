@@ -1,2 +1,0 @@
-debian/bin/x11coind usr/bin
-src/x11coind usr/lib/x11coin
